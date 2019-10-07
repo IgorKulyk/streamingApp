@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "sdgas",
+      "description": "fbadndgmgngtgf",
+      "id": 1
+    },
+    {
+      "title": "Test Stream",
+      "description": "Test Stream description",
+      "id": 2
+    },
+    {
+      "title": "My personal stream",
+      "description": "Stream created by myself",
+      "userId": "114632275618355660728",
+      "id": 3
+    }
+  ]
+}
