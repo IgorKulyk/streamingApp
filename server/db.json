@@ -11,10 +11,22 @@
       "id": 2
     },
     {
-      "title": "My personal stream",
-      "description": "Stream created by myself",
+      "title": "My stream",
+      "description": "Stream created by me",
       "userId": "114632275618355660728",
       "id": 3
+    },
+    {
+      "title": "History Check",
+      "description": "Now I should be navigated to all streams",
+      "userId": "114632275618355660728",
+      "id": 4
+    },
+    {
+      "title": "Edit test",
+      "description": "Testing stream edit function",
+      "userId": "114632275618355660728",
+      "id": 5
     }
   ]
 }
